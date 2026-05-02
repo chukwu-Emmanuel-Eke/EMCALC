@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-color:blueviolet;
+    height:520px;
+    width: 600px;
+    justify-items: center;
+}
+
+#background{
+    height:120px;
+    color: whitesmoke;
+    margin-top: 20px;
+    font: 2em san serif;
+}
+
+#button1{
+    width: 600px;
+    height:28px;
+}
+#button2{
+    width: 600px;
+    height:28px;
+}
+#button3{
+    width: 600px;
+    height:28px;
+}
+#button4{
+    width: 600px;
+    height:28px;
+}
+#button5{
+    width: 600px;
+    height:28px;
+}
+#button6{
+    width: 600px;
+    height:28px;
+}
+#button7{
+    width: 600px;
+    height:28px;
+}
+#button8{
+    width: 600px;
+    height:28px;
+}
+#button9{
+    width: 600px;
+    height:28px;
+}
+#button10{
+    width: 600px;
+    height:28px;
+}
+#button11{
+    width: 600px;
+    height:28px;
+}
+#button12{
+    width: 600px;
+    height:28px;
+}
+#button13{
+    width: 600px;
+    height:28px;
+}
+#button14{
+    width: 600px;
+    height:28px;
+}
+#button15{
+    width: 600px;
+    height:28px;
+}
+
+a{
+    color:white;
+    background-color:blueviolet;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    border-radius:10px;
+    margin-top: 560px;
+    margin-left: 20px;
+}
